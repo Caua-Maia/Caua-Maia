@@ -6,7 +6,6 @@ Sou estudante de Engenharia de Software (6º semestre) com experiência em desen
 
 ## Linguagens e Tecnologias
 - Java
-- Kotlin
 - JavaScript
 - HTML
 - CSS
