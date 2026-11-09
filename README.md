@@ -15,11 +15,10 @@ Engenharia de Software · UCSAL
 
 ## Sobre mim
 
-Comecei como monitor no Projeto Ford Enter e fui promovido a **Instrutor Técnico**. Hoje ensino Front-end, Back-end e IA — e isso mudou a forma como eu escrevo código: preciso explicar decisões, manter o material claro e construir soluções que outras pessoas consigam evoluir.
+Resumo Profissional
+Desenvolvedor Full Stack e Instrutor Técnico em Engenharia de Software, com experiência na construção de aplicações escaláveis de ponta a ponta. Atuo na formação de desenvolvedores no SENAI CIMATEC, instruindo trilhas de Front-end, Back-end e Inteligência Artificial. Como um desenvolvedor AI-augmented, integro ferramentas de Inteligência Artificial diariamente no fluxo de trabalho para acelerar a entrega de código, refinar arquiteturas e estruturar bancos de dados. Possuo forte base em boas práticas, código limpo e comunicação técnica, focando o desenvolvimento de soluções que conectam a solidez do Desenvolvimento Web à inovação das ferramentas de IA.
 
-Como desenvolvedor, meu foco é **arquitetura de sistemas**, **código limpo** e **escalabilidade**. Gosto de transformar um problema em um desenho de sistema e depois em um produto que funciona de ponta a ponta.
-
-Comunicação, didática técnica e atendimento ao público fazem parte do meu dia a dia — tanto em sala quanto em projeto.
+Principais Competências: Desenvolvimento Full Stack, Inteligência Artificial (IA), Arquitetura de Sistemas, Integração de APIs REST, Front-end (Angular, React, TypeScript), Back-end (Node.js, Java, Python), Banco de Dados (PostgreSQL).
 
 ---
 
