@@ -3,7 +3,7 @@
 # Olá, eu sou o Cauã Brito
 
 **Desenvolvedor Full Stack** · Instrutor Técnico no Projeto Ford Enter (SENAI CIMATEC)  
-Engenharia de Software · UCSAL (7º/8º semestre)
+Engenharia de Software · UCSAL 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-m-a01bb9veb/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauamaia488@gmail.com)
