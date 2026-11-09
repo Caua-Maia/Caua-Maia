@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="personagem.gif" width="180" alt="Pixel Art Cauã Brito" />
+
 # Olá, eu sou o Cauã Brito
 
 **Desenvolvedor Full Stack** · Instrutor Técnico no Projeto Ford Enter (SENAI CIMATEC)  
@@ -59,5 +61,3 @@ Se você busca alguém que já **entrega código** e **explica tecnologia com cl
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-m-a01bb9veb/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauamaia488@gmail.com)
-
-
