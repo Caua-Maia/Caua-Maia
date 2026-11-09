@@ -5,8 +5,6 @@
 **Desenvolvedor Full Stack** · Instrutor Técnico no Projeto Ford Enter (SENAI CIMATEC)  
 Engenharia de Software · UCSAL (7º/8º semestre)
 
-Aberto a oportunidades de **Estágio** e **Desenvolvedor Full Stack Júnior**.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-m-a01bb9veb/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauamaia488@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua-Maia)
