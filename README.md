@@ -61,8 +61,4 @@ Se você busca alguém que já **entrega código** e **explica tecnologia com cl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-m-a01bb9veb/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauamaia488@gmail.com)
 
-<div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caua-Maia&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)](https://github.com/Caua-Maia)
-
-</div>
